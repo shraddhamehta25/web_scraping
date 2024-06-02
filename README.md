@@ -30,6 +30,7 @@ Finally, we printed the mars_news list to confirm the successful extraction of t
 This process automates the task of visiting the Mars news website, scraping the titles and preview texts of news articles, and storing the data in a structured format. This is a fundamental web scraping task that can be adapted for different websites and data extraction needs.
 
 Mars_Part_2
+
 Setup: Imported necessary libraries (splinter, BeautifulSoup, matplotlib, pandas) and set up the Splinter browser.
 
 Scraping: Visited the Mars Temperature Data website, scraped the data using Beautiful Soup, and created a Pandas DataFrame from the scraped data.
